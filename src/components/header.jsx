@@ -4,13 +4,13 @@ function Header() {
   return (
     <header className="header">
       <div className="logo">
-        MyLogo
+        Icon
       </div>
 
       <nav className="nav-links">
         <a href="/">Home</a>
-        <a href="/">About</a>
-        <a href="/">Services</a>
+        <a href="/">Service</a>
+        <a href="/">Analysis</a>
         <a href="/">Contact</a>
       </nav>
     </header>
